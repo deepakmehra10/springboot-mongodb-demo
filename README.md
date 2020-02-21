@@ -9,7 +9,7 @@ This project will help you connect with MongoDb using Spring-Boot application an
 * Maven
 
 ##### Getting the Project
-https://github.com/deepakmehra10/lagom-scala-sbt.git
+https://github.com/deepakmehra10/springboot-mongodb-demo.git
 
 ##### Command to start the project
 
